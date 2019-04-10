@@ -1,5 +1,6 @@
 # docker-redis
-Run redis service for docker
+Run redis service in docker
+
 使用 docker 快速部署 redis 服务，设置持久化。
 
 # start
